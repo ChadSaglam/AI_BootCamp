@@ -1,0 +1,26 @@
+- https://paperswithcode.com/
+
+
+- https://www.analyticsvidhya.com/blog/
+- https://www.kdnuggets.com/
+- https://www.datasciencecentral.com/
+- https://www.kaggle.com/
+- https://archive.ics.uci.edu/
+- https://data.lacity.org/
+- https://data.gov/
+- https://towardsdatascience.com/
+- https://huggingface.co/
+- https://www.imaginarycloud.com/blog/tag/data-science/
+- https://deepai.org/
+- https://machinelearningmastery.com/
+- https://github.com/susanli2016
+- https://developers.google.com/machine-learning/crash-course/
+- https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265
+
+
+- https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.28710&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
+
+
+
+- https://summit.ai/the-30-most-useful-python-libraries-for-data-engineering/?utm_campaign=Newsletters&utm_medium=email&_hsmi=241301155&_hsenc=p2ANqtz-_Eq1TEMTDQKqPmD-4mCBnpYyqHcuIKSkEPZWzUDeXw9YeycaOVKSl4Esbw_I7H0YkpBL8BDstgd_NcInPzIaJEk-mun76a6VClTXC9LjPOuVvZJV0&utm_content=241295386&utm_source=hs_email
+
