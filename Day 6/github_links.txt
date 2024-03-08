@@ -1,0 +1,2 @@
+- https://github.com/susanli2016/NLP-with-Python
+- https://github.com/adashofdata/nlp-in-python-tutorial
