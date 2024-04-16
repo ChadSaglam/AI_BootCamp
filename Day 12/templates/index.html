@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Machine learning model for salary prediction</title>
+</head>
+<body>
+    <h1>Salary Prediction</h1>
+
+    <form action="/predict" method="POST">
+        <table>
+            <tr>
+                <td>Experience: </td>
+                <td>
+                    <input type="text" name="experience" required>
+                </td>
+            </tr>
+            <tr>
+                <td>Exam: </td>
+                <td>
+                    <input type="text" name="exam" required>
+                </td>
+            </tr>
+            <tr>
+                <td>Interview: </td>
+                <td>
+                    <input type="text" name="interview" required>
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>
+                    <button type="submit">Guess</button>
+                    <button type="reset">Delete</button>
+                </td>
+            </tr>
+        </table>
+        <h2 style="font-size: larger;">
+            {{guess}}
+        </h2>
+    </form>
+</body>
+</html>
+
