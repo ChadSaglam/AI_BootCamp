@@ -1,0 +1,25 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | WARNING] Config option `template_path` not recognized by `HTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] Jupyter Notebook 6.2.0 is running at:
+[NotebookApp | INFO] http://1a0b0744a49c:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.20) 1.920000ms
+[NotebookApp | INFO] 302 GET / (141.211.133.123) 0.540000ms
+[NotebookApp | INFO] New terminal with automatic name: 1
+[NotebookApp | INFO] 302 GET / (10.0.0.92) 0.530000ms
+[NotebookApp | INFO] 302 GET / (10.0.0.52) 0.490000ms
+[NotebookApp | INFO] 302 GET / (141.211.133.123) 0.320000ms
+[NotebookApp | INFO] 302 GET / (10.0.0.84) 0.520000ms
+[NotebookApp | INFO] 302 GET / (10.0.0.51) 0.440000ms
+[NotebookApp | INFO] 302 GET / (141.211.133.123) 0.320000ms
+[NotebookApp | INFO] New terminal with automatic name: 2
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | WARNING] Config option `template_path` not recognized by `HTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] Jupyter Notebook 6.2.0 is running at:
+[NotebookApp | INFO] http://4f047777569b:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (10.0.0.88) 1.990000ms
